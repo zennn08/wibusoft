@@ -1,6 +1,6 @@
 # Delete XP
 
-Command ini berfungsi untuk mengurangi [XP](/xp) user.
+Command ini berfungsi untuk mengurangi XP user.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |

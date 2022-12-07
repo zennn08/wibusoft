@@ -20,7 +20,7 @@ Asah otak adalah sebuah game, di mana kamu akan diberikan pertanyaan dan harus m
 
 Kirim pesan `#asahotak`, lalu bot akan memberikan pertanyaan kepadamu. Kamu dapat menjawabnya dengan langsung mengirimkan jawaban. Tidak perlu mereply/membalas pesan yang tadi dikirimkan oleh bot.
 
-Apabila jawabanmu benar kamu akan mendapatkan [balance](../../category/balance) dan juga [XP](../../category/xp). Kamu dapat menyerah dengan mengirimkan [#nyerah](./nyerah).
+Apabila jawabanmu benar kamu akan mendapatkan [balance](../../category/balance) dan juga [XP](../../category/xp). Kamu dapat menyerah dengan mengirimkan #nyerah.
 
 ## Command
 

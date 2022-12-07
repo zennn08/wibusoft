@@ -1,6 +1,6 @@
 # Add XP
 
-Command ini berfungsi untuk menambahkan [XP](/xp) user.
+Command ini berfungsi untuk menambahkan XP user.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |

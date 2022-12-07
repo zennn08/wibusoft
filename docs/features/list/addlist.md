@@ -1,6 +1,6 @@
 # Add List
 
-Fitur ini berfungsi untuk membuat, menghapus atau mereset [list](./list).
+Fitur ini berfungsi untuk membuat, menghapus atau mereset list.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
