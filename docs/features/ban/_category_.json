@@ -1,0 +1,7 @@
+{
+  "label": "Ban",
+  "link": {
+    "type": "generated-index",
+    "description": "Ban adalah status user di bot yang membuat user tidak dapat menggunakan bot."
+  }
+}

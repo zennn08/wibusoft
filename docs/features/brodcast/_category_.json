@@ -1,0 +1,7 @@
+{
+  "label": "Broadcast",
+  "link": {
+    "type": "generated-index",
+    "description": "Broadcast adalah pesan siaran yang dikirimkan ke seluruh chat yang ada di WhatsApp Bot."
+  }
+}

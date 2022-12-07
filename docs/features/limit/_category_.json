@@ -1,0 +1,8 @@
+{
+  "label": "Limit",
+  "link": {
+    "type": "generated-index",
+    "description": "Limit adalah batasan untuk menggunakan bot. Umumnya tiap penggunaan command menghabiskan 1 limit. Kamu bisa mendapatkan Unlimited limit dengan menjadi premium user."
+
+  }
+}

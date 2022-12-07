@@ -1,0 +1,7 @@
+{
+  "label": "Redeem",
+  "link": {
+    "type": "generated-index",
+    "description": "Redeem adalah fitur yang memungkinkan owner bot untuk membuat giveaway balance maupun xp."
+  }
+}
