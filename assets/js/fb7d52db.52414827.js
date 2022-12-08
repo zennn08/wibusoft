@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[7100],{4479:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/wibusoft/blog/tags/docusaurus","allTagsPath":"/wibusoft/blog/tags","count":4}')}}]);

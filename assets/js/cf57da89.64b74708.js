@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[8355],{8972:e=>{e.exports=JSON.parse('{"title":"List","slug":"/category/list","permalink":"/docs/category/list","navigation":{"previous":{"title":"Delete Limit","permalink":"/docs/features/limit/dellimit"},"next":{"title":"Add List","permalink":"/docs/features/list/addlist"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[7108],{5511:e=>{e.exports=JSON.parse('{"title":"XP","slug":"/category/xp","permalink":"/en/docs/category/xp","navigation":{"previous":{"title":"Convert String","permalink":"/en/docs/features/tools/convertstring"},"next":{"title":"Add XP","permalink":"/en/docs/features/xp/addxp"}}}')}}]);

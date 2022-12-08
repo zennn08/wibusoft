@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[4368],{6582:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/wibusoft/en/blog/tags/hola","allTagsPath":"/wibusoft/en/blog/tags","count":1}')}}]);

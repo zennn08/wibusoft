@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[788],{2009:s=>{s.exports=JSON.parse('{"permalink":"/wibusoft/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
