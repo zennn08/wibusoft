@@ -1,10 +1,6 @@
----
-sidebar_position: 1
----
+# Kapankah
 
-# Anonymous Chat
-
-Anonymous chat terinspirasi dari anonymous chat yang ada di [telegram](https://t.me/chatbot). Pada fitur ini, pengguna dapat melakukan chat dengan orang lain secara anonymous.
+Saat mengirimkan perintah dan diikuti dengan pertanyaan, bot akan menjawab pertanyaanmu secara random.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
@@ -15,29 +11,17 @@ Anonymous chat terinspirasi dari anonymous chat yang ada di [telegram](https://t
 |                   Hanya Premium                   |  ❌  |
 |                    Hanya Group                    |  ❌  |
 |                 Hanya Admin Group                 |  ❌  |
-|                Hanya Private Chat                 |  ✅  |
+|                Hanya Private Chat                 |  ❌  |
 |                       Limit                       |  1   |
 |                     Cooldown                      | 5000 |
 |                       Level                       |  0   |
 
 ## Command
 
-### #anonymous #start
+### #kapankah
 
-Untuk memulai anonymous chat.
+Penggunaan dapat dilakukan dengan cara mengirim `#kapankah pertanyaan`.
 
-### #next
+Alias:
 
-Untuk skip/mencari partner chat lain.
-
-### #leave
-
-Untuk berhenti dari anonymous chat.
-
-### #send
-
-Untuk mengirim kontakmu ke partner.
-
-## Note
-
-Selama didalam anonymous chat, fitur bot tidak akan berfungsi, kamu harus keluar terlebih dahulu dari anonymous chat dengan mengirimkan `#leave`
+- #kapan
