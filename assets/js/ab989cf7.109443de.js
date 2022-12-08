@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[1060],{7019:e=>{e.exports=JSON.parse('{"title":"Group","slug":"/category/group","permalink":"/docs/category/group","navigation":{"previous":{"title":"Family 100","permalink":"/docs/features/game/family100"},"next":{"title":"Absen","permalink":"/docs/features/group/absen"}}}')}}]);
