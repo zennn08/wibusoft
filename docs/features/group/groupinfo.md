@@ -1,15 +1,15 @@
-# Family 100
+# Group Info
 
-Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kamu harus menjawab pertanyaan tersebut dalam waktu 60 detik. Setiap pertanyaan memiliki jumlah jawaban yang berbeda. Apabila menjawab dengan benar akan mendapatkan balance & XP.
+Berfungsi untuk menampilkan info group.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
 | <div class="label license nitro">Only Nitro</div> |  ❌  |
 |                Menggunakan Prefix                 |  ✅  |
-|                 Menggunakan limit                 |  ✅  |
+|                 Menggunakan limit                 |  ❌  |
 |                    Hanya Owner                    |  ❌  |
 |                   Hanya Premium                   |  ❌  |
-|                    Hanya Group                    |  ❌  |
+|                    Hanya Group                    |  ✅  |
 |                 Hanya Admin Group                 |  ❌  |
 |                Hanya Private Chat                 |  ❌  |
 |                       Limit                       |  1   |
@@ -18,4 +18,22 @@ Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kam
 
 ## Command
 
-### #family100
+### #groupinfo
+
+Penggunaan dapat dilakukan dengan cara mengirim `#groupinfo`.
+
+Bot akan memberikan info tentang group diantaranya:
+
+- `ID_GROUP`
+- `NAMA_GROUP`
+- `JUMLAH_ANGGOTA_GROUP`
+- `PEMBUAT_GROUP`
+- `KAPAN_GROUP_DIBUAT`
+- `GROUP_SETTING` seperti antidelete, antilink, dll.
+- `DESKRIPSI_GROUP`
+
+Alias:
+
+- #grupinfo
+- #infogroup
+- #infogrup

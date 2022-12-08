@@ -1,12 +1,12 @@
-# Family 100
+# Hint
 
-Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kamu harus menjawab pertanyaan tersebut dalam waktu 60 detik. Setiap pertanyaan memiliki jumlah jawaban yang berbeda. Apabila menjawab dengan benar akan mendapatkan balance & XP.
+Hint game di wibusoft.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
 | <div class="label license nitro">Only Nitro</div> |  ❌  |
 |                Menggunakan Prefix                 |  ✅  |
-|                 Menggunakan limit                 |  ✅  |
+|                 Menggunakan limit                 |  ❌  |
 |                    Hanya Owner                    |  ❌  |
 |                   Hanya Premium                   |  ❌  |
 |                    Hanya Group                    |  ❌  |
@@ -18,4 +18,4 @@ Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kam
 
 ## Command
 
-### #family100
+### #hint

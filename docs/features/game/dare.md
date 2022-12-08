@@ -1,5 +1,7 @@
 # Dare
 
+Truth or dare.
+
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
 | <div class="label license nitro">Only Nitro</div> |  ❌  |

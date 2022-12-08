@@ -1,10 +1,10 @@
-# Family 100
+# Google Image
 
-Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kamu harus menjawab pertanyaan tersebut dalam waktu 60 detik. Setiap pertanyaan memiliki jumlah jawaban yang berbeda. Apabila menjawab dengan benar akan mendapatkan balance & XP.
+Pencarian gambar dengan bot. Hasilnya yaitu berupa gambar
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
-| <div class="label license nitro">Only Nitro</div> |  ❌  |
+| <div class="label license nitro">Only Nitro</div> |  ✅  |
 |                Menggunakan Prefix                 |  ✅  |
 |                 Menggunakan limit                 |  ✅  |
 |                    Hanya Owner                    |  ❌  |
@@ -18,4 +18,10 @@ Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kam
 
 ## Command
 
-### #family100
+### #gimage
+
+Penggunaan dapat dilakukan dengan cara mengirim `#gimage yang_ingin_dicari`.
+
+Alias:
+
+- #image

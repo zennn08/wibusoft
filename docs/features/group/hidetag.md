@@ -1,16 +1,16 @@
-# Family 100
+# Hidetag
 
-Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kamu harus menjawab pertanyaan tersebut dalam waktu 60 detik. Setiap pertanyaan memiliki jumlah jawaban yang berbeda. Apabila menjawab dengan benar akan mendapatkan balance & XP.
+Mention/tag semua member tanpa diketahui. Sangat cocok digunakan untuk pengumuman.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
 | <div class="label license nitro">Only Nitro</div> |  ❌  |
 |                Menggunakan Prefix                 |  ✅  |
-|                 Menggunakan limit                 |  ✅  |
+|                 Menggunakan limit                 |  ❌  |
 |                    Hanya Owner                    |  ❌  |
 |                   Hanya Premium                   |  ❌  |
-|                    Hanya Group                    |  ❌  |
-|                 Hanya Admin Group                 |  ❌  |
+|                    Hanya Group                    |  ✅  |
+|                 Hanya Admin Group                 |  ✅  |
 |                Hanya Private Chat                 |  ❌  |
 |                       Limit                       |  1   |
 |                     Cooldown                      | 5000 |
@@ -18,4 +18,10 @@ Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kam
 
 ## Command
 
-### #family100
+### #hidetag
+
+Penggunaan `#hidetag text`.
+
+Alias:
+
+- #h

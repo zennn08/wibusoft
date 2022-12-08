@@ -1,6 +1,6 @@
-# Family 100
+# Harta Tahta
 
-Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kamu harus menjawab pertanyaan tersebut dalam waktu 60 detik. Setiap pertanyaan memiliki jumlah jawaban yang berbeda. Apabila menjawab dengan benar akan mendapatkan balance & XP.
+Harta Tahta Image generator.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
@@ -18,4 +18,19 @@ Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kam
 
 ## Command
 
-### #family100
+### #hartatahta
+
+Kirim `#hartatahta text`.
+
+Contoh:
+
+- #hartatahta wanita
+
+Result:
+
+![Harta Tahta](../img/tools/hartatahta.png)
+
+Alias:
+
+- #harta
+- #tahta

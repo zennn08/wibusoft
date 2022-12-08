@@ -1,6 +1,6 @@
-# Family 100
+# Google
 
-Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kamu harus menjawab pertanyaan tersebut dalam waktu 60 detik. Setiap pertanyaan memiliki jumlah jawaban yang berbeda. Apabila menjawab dengan benar akan mendapatkan balance & XP.
+Pencarian google.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
@@ -18,4 +18,6 @@ Terinspirasi dari acara family 100 di tv. Bot akan memberikan pertanyaan dan kam
 
 ## Command
 
-### #family100
+### #google
+
+Penggunaan dapat dilakukan dengan cara mengirim `#google yang_ingin_dicari`.
