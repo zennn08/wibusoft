@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[8791],{162:a=>{a.exports=JSON.parse('{"title":"XP","slug":"/category/xp","permalink":"/docs/category/xp","navigation":{"previous":{"title":"Harta Tahta","permalink":"/docs/features/tools/hartatahta"},"next":{"title":"Add XP","permalink":"/docs/features/xp/addxp"}}}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[699],{7764:e=>{e.exports=JSON.parse('{"title":"Game","slug":"/category/game","permalink":"/docs/category/game","navigation":{"previous":{"title":"Facebook","permalink":"/docs/features/download/facebook"},"next":{"title":"Akinator","permalink":"/docs/features/game/akinator"}}}')}}]);
