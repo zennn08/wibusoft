@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwbsdocs=self.webpackChunkwbsdocs||[]).push([[8086],{7746:e=>{e.exports=JSON.parse('{"title":"XP","slug":"/category/xp","permalink":"/wibusoft/docs/category/xp","navigation":{"previous":{"title":"Convert String","permalink":"/wibusoft/docs/features/tools/convertstring"},"next":{"title":"Add XP","permalink":"/wibusoft/docs/features/xp/addxp"}}}')}}]);
