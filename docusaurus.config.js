@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Wibusoft - Documentation',
   tagline: 'Simple Bot Hosting',
-  url: 'https://www.wibusoft.com',
+  url: 'https://docs.wibusoft.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
